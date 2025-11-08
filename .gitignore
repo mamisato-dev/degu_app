@@ -1,0 +1,9 @@
+# --- custom ignore settings ---
+venv/
+.env
+__pycache__/
+*.__pyc
+.DS_Store
+
+# --- 個人用メモ・資料 ---
+アプリ要件_メモ.txt
